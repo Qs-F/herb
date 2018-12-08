@@ -1,0 +1,6 @@
+runnable: herb install user/hoge 
+runnnale: herb run user/hoge 
+runnable: herb run user/hoge@v1.0.0 
+runnable: herb install https://github.com/user/hoge.git 
+runnable: herb run hoge --option 
+careful: creating link to /usr/lcoal/bin for latest version, if --no-link is not specified 
